@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2018.2 (64-bit)
+# SW Build 2258646 on Thu Jun 14 20:03:12 MDT 2018
+# IP Build 2256618 on Thu Jun 14 22:10:49 MDT 2018
+# Start of session at: Tue Mar 14 15:11:44 2023
+# Process ID: 4892
+# Current directory: C:/Users/rw22242/mult8
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12556 C:\Users\rw22242\mult8\mult8.xpr
+# Log file: C:/Users/rw22242/mult8/vivado.log
+# Journal file: C:/Users/rw22242/mult8\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/rw22242/mult8/mult8.xpr
+update_compile_order -fileset sources_1
